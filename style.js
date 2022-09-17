@@ -16,6 +16,5 @@ export const Texto = styled.Text`
 `;
 
 export const Imagem = styled.Image`
-
-border: 8px solid red;
+    border: 8px solid red;
 `;
